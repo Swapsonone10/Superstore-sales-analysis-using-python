@@ -21,16 +21,20 @@
 
 ![Screenshot (31)](https://github.com/Swapsonone10/Superstore-sales-analysis-using-python/assets/106740366/851ac81c-8e68-4d7c-8f9f-c0d744eab64c)
 
--Geographical Analysis : Explore sales data based on country, city, state and region to identify areas with high and low sales performance. identify number of customers per state and city.
+✅ Geographical Analysis : Explore sales data based on country, city, state and region to identify areas with high and low sales performance. identify number of customers per state and city.
 
 
 ✅ Product and Product Category
 -Product Category Analysis : Investigate the sales performance of different product categories (e.g, electronics, furniturem office supplies).
+![Screenshot (32)](https://github.com/Swapsonone10/Superstore-sales-analysis-using-python/assets/106740366/e68b9dd7-1d4f-45ab-baa2-34389602fad3)
+
 -Sub-Category Insight : Analyze sales data for sub-categories (e.g, laptops, chairs, pens) to identify the top selling and least selling products.
+![Screenshot (33)](https://github.com/Swapsonone10/Superstore-sales-analysis-using-python/assets/106740366/daeadc96-c116-4eea-b742-4927c84f374c)
+
 -Product Performance : Analyze the popularity of different products based on their sales amount and determine if any products need to be performed or discounted
 
-✅ ustomer
--Customer Segmentation : Group customers based on segments (e.g, corporate, home office, consumer) and analyze their buying behaviour to understand which segments contribute the most to overall sales.
+✅ Customer
+Customer Segmentation : Group customers based on segments (e.g, corporate, home office, consumer) and analyze their buying behaviour to understand which segments contribute the most to overall sales.
 -Customer Loyalty : Examine the repeat purchase behaviour of customers by calculating the frequency of orders and identifying loyal customers.
 -Sales by customer : Analyze the customers in terms total worth of goods they have bought from the store
 
