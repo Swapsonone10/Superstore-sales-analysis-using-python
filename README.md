@@ -38,3 +38,4 @@ Customer Segmentation : Group customers based on segments (e.g, corporate, home 
 -Customer Loyalty : Examine the repeat purchase behaviour of customers by calculating the frequency of orders and identifying loyal customers.
 -Sales by customer : Analyze the customers in terms total worth of goods they have bought from the store
 
+![Screenshot (34)](https://github.com/Swapsonone10/Superstore-sales-analysis-using-python/assets/106740366/1352db13-09cb-4a86-a4dc-114acd74cb96)
