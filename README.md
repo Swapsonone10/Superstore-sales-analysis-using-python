@@ -5,5 +5,4 @@
 - Data Visualization
 
 # Overview
-- 1.Sales Trends
-  Sales Trends over Time Analyze the sales amount over different periods(e.g, Months, Quarter, Year) to identify any growth trends or flactuation in sales
+- 1.Sales Trends-Sales Trends over Time Analyze the sales amount over different periods(e.g, Months, Quarter, Year) to identify any growth trends or flactuation in sales
