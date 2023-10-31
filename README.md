@@ -16,8 +16,10 @@ Sales Trends over Time : Analyze the sales amount over different periods (e.g., 
   
 ![Screenshot (30)](https://github.com/Swapsonone10/Superstore-sales-analysis-using-python/assets/106740366/71665868-a79d-45ad-b9fb-d422d773a920)
 
+
 ✅ Shipping 
 Ship Mode : Compare the different shipping modes (e.g, standard, express, same-day) to determine which shipping method is most  commonly used.
 
-![Screenshot (30)](https://github.com/Swapsonone10/Superstore-sales-analysis-using-python/assets/106740366/6b07bfc9-e93f-43f6-8669-fd97a408b982)
+
+![Screenshot (31)](https://github.com/Swapsonone10/Superstore-sales-analysis-using-python/assets/106740366/851ac81c-8e68-4d7c-8f9f-c0d744eab64c)
 
