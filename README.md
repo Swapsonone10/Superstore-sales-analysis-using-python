@@ -13,4 +13,4 @@
 
 ✅ Sales Trends : Sales Trends over Time Analyze the sales amount over different periods (e.g., months, quarters, and years) to identify any growth trends or fluctuations in sales.
   
-C:\Users\User\Pictures\Screenshots\Screenshot (30).png
+![Screenshot (30)](https://github.com/Swapsonone10/Superstore-sales-analysis-using-python/assets/106740366/71665868-a79d-45ad-b9fb-d422d773a920)
